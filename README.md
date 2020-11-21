@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 
 <!--
 **Permz/Permz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
